@@ -1,4 +1,4 @@
-baseurl = "https://rogocorp.com/"
+baseurl = "http://rogocorp.com/"
 languageCode = "en-us"
 title = "rogocorp"
 # Enable comments by entering your Disqus shortname
